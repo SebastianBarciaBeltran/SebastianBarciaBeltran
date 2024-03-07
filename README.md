@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS with Typescript + clean Architecture**
 
-- 👨‍💻 All of my projects are available at [in progress....](in progress....)
+- 👨‍💻 All of my projects are available at in progress....
 
 - 💬 Ask me about **Angular**
 
